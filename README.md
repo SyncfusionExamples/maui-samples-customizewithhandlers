@@ -1,1 +1,1 @@
-# Handlers custmization sample
+# Handlers customization sample
