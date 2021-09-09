@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "CustomizeWithHandlers.WinUI": {
+      "commandName": "MsixPackage"
+    }
+  }
+}
