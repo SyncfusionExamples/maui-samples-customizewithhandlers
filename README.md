@@ -1,1 +1,1 @@
-# maui-samples-customizewithhandlers
+# Handlers custmization sample
